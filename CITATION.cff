@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Chung"
+  given-names: "Simon"
+  orcid: "https://orcid.org/0000-0003-2349-3779"
+title: "A-Multivariate-Bernoulli-Based-Sampling-Method-for-Multi-Label-Data"
+version: 1.0.0
+date-released: 2025-09-03
+url: "https://github.com/simonchung87/A-Multivariate-Bernoulli-Based-Sampling-Method-for-Multi-Label-Data"
